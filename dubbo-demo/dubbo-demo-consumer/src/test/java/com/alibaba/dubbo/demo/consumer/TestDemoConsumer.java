@@ -23,4 +23,8 @@ public class TestDemoConsumer {
 	    com.alibaba.dubbo.container.Main.main(args);
 	}
 
+	public void test1() {
+		System.out.println("第一个版本");
+	}
+
 }
