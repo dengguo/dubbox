@@ -26,6 +26,7 @@ import javax.ws.rs.core.Response;
 
 /**
  * @author lishen
+ * 哇哈哈
  */
 public class TestRestClient {
 
