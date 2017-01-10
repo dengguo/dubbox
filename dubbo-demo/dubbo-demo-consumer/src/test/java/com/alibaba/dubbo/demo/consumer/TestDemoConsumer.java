@@ -12,12 +12,14 @@
  * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  * See the License for the specific language governing permissions and
  * limitations under the License.
+ * test
  */
 package com.alibaba.dubbo.demo.consumer;
 
 public class TestDemoConsumer {
 	
 	public static void main(String[] args) {
+
 	    com.alibaba.dubbo.container.Main.main(args);
 	}
 
