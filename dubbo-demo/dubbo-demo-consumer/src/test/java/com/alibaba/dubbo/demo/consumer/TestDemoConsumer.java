@@ -27,4 +27,8 @@ public class TestDemoConsumer {
 		System.out.println("第一个版本");
 	}
 
+	public void test11() {
+		System.out.println("第一个版本");
+	}
+
 }
